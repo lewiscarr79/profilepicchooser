@@ -1,3 +1,4 @@
+<img src="https://github.com/lewiscarr79/profilepicchooser/blob/main/profilepicchoosebanner.png">
 # profilepicchooser
 
 Profilepicchooser is a simple block for Moodle that allows users to choose a profile picture from a bank of premade avatars.
