@@ -1,0 +1,22 @@
+.profilepic-choice {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    background: none;
+    border: none;
+    padding: 0;
+}
+
+.profilepic-choice:hover {
+    transform: scale(1.1);
+}
+
+.profilepic-choice:not(:hover) {
+    transform: scale(1);
+}
+
+.profilepic-choice:focus {
+    outline: 2px solid #0070a8;
+    outline-offset: 2px;
+}
