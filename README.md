@@ -1,18 +1,18 @@
 # profilepicchooser
 
-Profilepicchooser is a simple block for Moodle that allows users to choose a profile pciture from a bank of premade avatars.
-The block has a simple button which when clicked, opens a modal window allow the user to choose their new avatar.  It works in a similar way to "Netflix" and how users cna choose a login picture from a bank of their favourite Netflix characters from popular TV shows.
+Profilepicchooser is a simple block for Moodle that allows users to choose a profile picture from a bank of premade avatars.
+The block has a simple button that, when clicked, opens a modal window and allows the user to choose their new avatar.  It works similarly to "Netflix" and how users can choose a login picture from a bank of their favourite Netflix characters from popular TV shows.
 
 **Installation**
-To install ,simply copy to your Moodle "/blocks" folder.
+Copy it to your Moodle "/blocks" folder to install it.
 Or install via this Git Repo
-Or install via the plugin uploads drieclty from within Moodle
+Or install via the plugin uploads directly from within Moodle
 
 **License**
-As this plugin is built for Moodle, it is provided freely as open source software, under version 3 of the GNU General Public License. 
+As this plugin is built for Moodle, it is provided freely as open-source software under version 3 of the GNU General Public License. 
 
 **Version Compatability**
-Build for Moodle 4.3+ (but should work in future version also)
+Build for Moodle 4.3+ (but it should work in future versions also)
 
 **Warranty and Support**
-This plugin was a concept plugin for a new project. I may not have time to support and maintain it. So if you do use it, do bare this in mind. Also if you fork it and modify it. Then that's also fine.
+This plugin was a concept plugin for a new project. I may not have time to support and maintain it. So, if you use it, bear this in mind. Also, if you fork it and modify it. Then that's also fine.
